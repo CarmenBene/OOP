@@ -1,0 +1,6 @@
+E:\Proiecte OOP\NumereRationale\NumereRationale\bin\Debug\NumereRationale.exe.config
+E:\Proiecte OOP\NumereRationale\NumereRationale\bin\Debug\NumereRationale.exe
+E:\Proiecte OOP\NumereRationale\NumereRationale\bin\Debug\NumereRationale.pdb
+E:\Proiecte OOP\NumereRationale\NumereRationale\obj\Debug\NumereRationale.csprojAssemblyReference.cache
+E:\Proiecte OOP\NumereRationale\NumereRationale\obj\Debug\NumereRationale.exe
+E:\Proiecte OOP\NumereRationale\NumereRationale\obj\Debug\NumereRationale.pdb
